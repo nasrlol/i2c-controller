@@ -51,4 +51,4 @@ The main way of using the software is the CLI. Run the main.py file and you will
                 Installation Guide
 
 Install the executable and run it.
-![Program Preview](https://github.com/nasrlol/I2C-CONTROLLER/preview.png)
+![Program Preview](preview.png)
